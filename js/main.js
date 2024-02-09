@@ -52,7 +52,7 @@ close.addEventListener('click', () => {
 let obj = {
     access_token: '5586141812:AAHMK3sCs82UdI_EH8XFklTYNygC_6la_4E',
     chatId: '-798605599',
-    text: 'Она сказала да!',
+    text: 'Урааааа!',
 }
 
 function otpravka(token, chatid, text) {
